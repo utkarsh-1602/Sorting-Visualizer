@@ -1,6 +1,5 @@
 
 # Live Website 
-
 ## [Sorting Visualizer](https://effervescent-froyo-adaa4f.netlify.app/)
 
 ![Utkarsh Hadgekar: Sorting Visualizer](sortingvisualizer.png?raw=true "Utkarsh Hadgekar: Sorting Visualizer")
